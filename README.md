@@ -1,0 +1,2 @@
+# YOLOv11_forestfire_detect
+YOLOv11_FCM_v7ds_LSCD
